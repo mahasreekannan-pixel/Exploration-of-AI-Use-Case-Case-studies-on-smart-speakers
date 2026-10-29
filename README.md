@@ -18,6 +18,9 @@ AI technologies used in smart speakers
 
 5. Text-to-Speech (TTS): Converts generated text responses into spoken audio.
 
+<img width="420" height="350" alt="image" src="https://github.com/user-attachments/assets/46217f0c-416e-433c-b1d5-12ac6697876f" />
+
+
 # WORKING PRINCIPLE 
 The basic working process of an AI-enabled smart speaker is:
 
